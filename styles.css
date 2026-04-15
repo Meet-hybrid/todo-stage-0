@@ -1,0 +1,9 @@
+.completed-text {
+    text-decoration: line-through;
+    color: #9ca3af !important;
+}
+
+button:focus, input:focus {
+    outline: 2px solid #2563eb;
+    outline-offset: 2px;
+}
